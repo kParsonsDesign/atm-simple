@@ -2,6 +2,10 @@ input#transaction-amount {
   width: 6em;
 }
 
+form.container {
+  max-width: 40rem;;
+}
+
 /* input[type=number]::-webkit-inner-spin-button {
   opacity: 0;
   display: none;
